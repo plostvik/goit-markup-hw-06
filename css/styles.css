@@ -703,6 +703,7 @@ button {
 	top: 50%;
 	left: 15px;
 	transform: translateY(-50%);
+	pointer-events: none;
 }
 .modal-form-input {
 	width: 100%;
